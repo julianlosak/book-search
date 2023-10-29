@@ -1,5 +1,6 @@
-# social-network-api
-API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+# book-search
+A book search application using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
+
 # install
 
 Clone the repository at https://github.com/julianlosak/book-search
